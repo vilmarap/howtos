@@ -57,8 +57,8 @@ nav:
 #    - Docker Swarm: orquestracao/dockerswarm.md
 #    - Rancher: orquestracao/rancher.md
   - Provisionamento: index.md
-#    - Terraform Azure: provisionamento/terraform-azure.md
-#    - Terraform AWS: provisionamento/terraform-aws.md
+    - Terraform Azure: provisionamento/terraform-azure.md
+    - Terraform AWS: provisionamento/terraform-aws.md
   - Redes: index.md
 #    - Firewall Fortigate: redes/fwfortigate.md
 #    - Nginx: redes/nginx.md
