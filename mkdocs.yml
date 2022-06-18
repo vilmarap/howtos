@@ -49,8 +49,8 @@ nav:
   - Monitoramento: 
     - New Relic: monitoramento/newrelic.md
   - Nuvem:
-    - AWS: nuvem/iam.md
-    - Azure: nuvem/appregistration.md
+    - AWS: nuvem/aws/iam.md
+    - Azure: nuvem/azure/appregistration.md
   - Orquestração: 
     - AWS ECS: orquestracao/ecs.md
     - Kubernetes: orquestracao/kubernetes.md
