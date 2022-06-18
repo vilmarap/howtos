@@ -65,7 +65,7 @@ nav:
   - Segurança: seguranca/index.md
   - Sistema operacional: 
     - Ubuntu: sistema-operacional/ubuntu.md
-    - Windows: windows/index.md
+    - Windows:
       - windows-server: sistema-operacional/windows-server.md
       - windows-10: sistema-operacional/windows10.md
     - CentOS: sistema-operacional/centos.md
