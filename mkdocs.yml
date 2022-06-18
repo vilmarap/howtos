@@ -33,7 +33,7 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Docs: docs.md
-  - Banco de Dados:
+  - Banco de Dados: index.md
     - mysql: banco-de-dados/mysql.md
     - postgres: banco-de-dados/postgres.md
     - SQL Server: banco-de-dados/sqlserver.md
@@ -44,14 +44,14 @@ nav:
   - E-mail: index.md
     - Gmail: e-mail/gmail.md
   - Ferramentas: ferramentas/teste-infra.md
-  - Gerência de Configuração: 
+  - Gerência de Configuração: index.md
     - Ansible: gerencia-de-configuracao/ansible-windows.md
   - Monitoramento: index.md
     - New Relic: monitoramento/newrelic.md
   - Nuvem: index.md
     - AWS: nuvem/aws/iam.md
     - Azure: nuvem/azure/appregistration.md
-  - Orquestração: 
+  - Orquestração: index.md
     - AWS ECS: orquestracao/ecs.md
     - Kubernetes: orquestracao/kubernetes.md
     - Docker Swarm: orquestracao/dockerswarm.md
@@ -63,7 +63,7 @@ nav:
     - Firewall Fortigate: redes/fwfortigate.md
     - Nginx: redes/nginx.md
   - Segurança: seguranca/index.md
-  - Sistema operacional: 
+  - Sistema operacional: index.md
     - Ubuntu: sistema-operacional/ubuntu.md
     - Windows: index.md
       - windows-server: sistema-operacional/windows-server.md
