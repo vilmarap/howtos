@@ -44,26 +44,26 @@ nav:
   - E-mail:
     - Gmail: e-mail/gmail.md
   - Ferramentas: ferramentas/teste-infra.md
-  - Gerência de Configuração: index.md
+  - Gerência de Configuração: 
     - Ansible: gerencia-de-configuracao/ansible-windows.md
-  - Monitoramento: index.md
+  - Monitoramento: 
     - New Relic: monitoramento/newrelic.md
-  - Nuvem: index.md
+  - Nuvem:
     - AWS: nuvem/iam.md
     - Azure: nuvem/appregistration.md
-  - Orquestração: index.md
+  - Orquestração: 
     - AWS ECS: orquestracao/ecs.md
     - Kubernetes: orquestracao/kubernetes.md
     - Docker Swarm: orquestracao/dockerswarm.md
     - Rancher: orquestracao/rancher.md
-  - Provisionamento: index.md
+  - Provisionamento: 
     - Terraform Azure: provisionamento/terraform-azure.md
     - Terraform AWS: provisionamento/terraform-aws.md
-  - Redes: index.md
-    - Firewall Fortigate: redes/fwfortigate.md
+  - Redes: 
+    - Firewall Fortigate: 
     - Nginx: redes/nginx.md
   - Segurança: seguranca/index.md
-  - Sistema operacional: sistema-operacional/index.md
+  - Sistema operacional: 
     - Ubuntu: sistema-operacional/ubuntu.md
     - Windows: windows/index.md
       - windows-server: sistema-operacional/windows-server.md
