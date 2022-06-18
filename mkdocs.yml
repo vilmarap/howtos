@@ -1,6 +1,6 @@
-site_name: urban-octo-eureka
-repo_name: vilmarap/urban-octo-eureka
-repo_url: https://github.com/vilmarap/urban-octo-eureka
+site_name: howtos
+repo_name: vilmarap/howtos
+repo_url: https://github.com/vilmarap/howtos
 
 theme:
   name: material
@@ -16,8 +16,8 @@ theme:
         name: Switch to light mode
   icon:
     repo: fontawesome/brands/github-alt
-  logo: imgs/python_rocket.png
-  favicon: imgs/favicon.ico
+  logo: img/logo.png
+  favicon: img/favicon.ico
   features:
   - content.tabs.link
 
@@ -33,4 +33,4 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Docs: docs.md
-  - Teste: test.md
+  - Test: test.md
