@@ -34,7 +34,7 @@ nav:
   - Home: index.md
   - Docs: docs.md
   - Banco de Dados: index.md
-#    - mysql: banco-de-dados/mysql.md
+    - mysql: banco-de-dados/mysql.md
 #    - postgres: banco-de-dados/postgres.md
 #    - SQL Server: banco-de-dados/sqlserver.md
   - Controle de versão: index.md
