@@ -71,39 +71,39 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Docs: docs.md
-  - Banco de Dados: index.md
+  - Banco de Dados: 
     - mysql: banco-de-dados/mysql.md
     - postgres: banco-de-dados/postgres.md
     - SQL Server: banco-de-dados/sqlserver.md
-  - Controle de versão: index.md
+  - Controle de versão: 
     - Git: controle-de-versao/git.md
     - Github: controle-de-versao/github.md
     - DatabaseVersioning: controle-de-versao/databaseversioning.md
-  - E-mail: index.md
+  - E-mail: 
     - Gmail: e-mail/gmail.md
   - Ferramentas: ferramentas/teste-infra.md
-  - Gerência de Configuração: index.md
+  - Gerência de Configuração:
     - Ansible: gerencia-de-configuracao/ansible-windows.md
-  - Monitoramento: index.md
+  - Monitoramento: 
     - New Relic: monitoramento/newrelic.md
-  - Nuvem: index.md
+  - Nuvem: 
     - AWS: nuvem/aws/iam.md
     - Azure: nuvem/azure/appregistration.md
-  - Orquestração: index.md
+  - Orquestração: 
     - AWS ECS: orquestracao/ecs.md
     - Kubernetes: orquestracao/kubernetes.md
     - Docker Swarm: orquestracao/dockerswarm.md
     - Rancher: orquestracao/rancher.md
-  - Provisionamento: index.md
+  - Provisionamento: 
     - Terraform Azure: provisionamento/terraform-azure.md
     - Terraform AWS: provisionamento/terraform-aws.md
-  - Redes: index.md 
+  - Redes: 
     - Firewall Fortigate: redes/fwfortigate.md
     - Nginx: redes/nginx.md
   - Segurança: seguranca/index.md
-  - Sistema operacional: index.md
+  - Sistema operacional:
     - Ubuntu: sistema-operacional/ubuntu.md
-    - Windows: index.md
+    - Windows: 
       - windows-server: sistema-operacional/windows-server.md
       - windows-10: sistema-operacional/windows10.md
     - CentOS: sistema-operacional/centos.md
