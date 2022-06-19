@@ -70,8 +70,8 @@ markdown_extensions:
   - pymdownx.tilde
   
 nav:
-  -:sparkles:Home: index.md
-  -:book:Docs:
+  - :sparkles: Home: index.md
+  - :book: Docs:
     - Banco de Dados: 
       - mysql: banco-de-dados/mysql.md
       - postgres: banco-de-dados/postgres.md
