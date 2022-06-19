@@ -1,4 +1,4 @@
-# How-Tos 
+# How To's 
 
 Repositório do SAMU
 Aqui você encontra tudo o que é útil para te salvar ou tentar...
@@ -6,7 +6,7 @@ Aqui você encontra tudo o que é útil para te salvar ou tentar...
 ## Ferramenta para fazer teste automatizado de infra
 [link](https://testinfra.readthedocs.io/en/latest/)
 
-## Contextos / Ferramentas / Procedimentos
+## Procedimentos
 
 - [ansible](ansible/)
 - [aws](AWS/)

@@ -15,11 +15,12 @@ theme:
         icon: material/weather-sunny
         name: Switch to light mode
   icon:
-    repo: fontawesome/brands/github-alt
+    repo: fontawesome/brands/git
   logo: img/logo.png
   favicon: img/favicon.ico
   features:
   - content.tabs.link
+  - navigation.sections
 
 markdown_extensions:
   # - pymdownx.emoji
@@ -69,8 +70,8 @@ markdown_extensions:
   - pymdownx.tilde
   
 nav:
-  - Home: index.md
-  - Docs:
+  -:sparkles:Home: index.md
+  -:book:Docs:
     - Banco de Dados: 
       - mysql: banco-de-dados/mysql.md
       - postgres: banco-de-dados/postgres.md
@@ -100,7 +101,7 @@ nav:
     - Redes: 
       - Firewall Fortigate: redes/fwfortigate.md
       - Nginx: redes/nginx.md
-    - Segurança: seguranca/index.md
+    - Segurança: seguranca/security.md
     - Sistema operacional:
       - Ubuntu: sistema-operacional/ubuntu.md
       - Windows: 
