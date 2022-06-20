@@ -6,7 +6,7 @@ Aqui você encontra tudo o que é útil para tentar te salvar...
 
 ## Procedimentos
 
-- [Banco de dados](docs/banco-de-dados/)
+<!-- - [Banco de dados](docs/banco-de-dados/)
 - [Controle de versão](docs/controle-de-versao/)
 - [E-mail](docs/e-mail/)
 - [Ferramentas](docs/ferramentas/)
@@ -17,7 +17,7 @@ Aqui você encontra tudo o que é útil para tentar te salvar...
 - [Provisionamento](docs/provisionamento/)
 - [Redes](docs/redes/)
 - [Segurança](docs/seguranca/)
-- [Sistema Operacional](docs/sistema-operacional/)
+- [Sistema Operacional](docs/sistema-operacional/) -->
 
 ## Contribuição
 

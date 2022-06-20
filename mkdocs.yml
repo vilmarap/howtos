@@ -82,7 +82,7 @@ nav:
       - DatabaseVersioning: controle-de-versao/databaseversioning.md
     - E-mail: 
       - Gmail: e-mail/gmail.md
-    - Ferramentas: ferramentas/teste-infra.md
+    - Ferramentas: ferramentas/úteis.md
     - Gerência de Configuração:
       - Ansible: gerencia-de-configuracao/ansible-windows.md
     - Monitoramento: 
