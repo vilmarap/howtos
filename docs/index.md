@@ -1,36 +1,27 @@
 # How To's 
 
-Repositório do SAMU
-Aqui você encontra tudo o que é útil para te salvar ou tentar...
+Repositório do SAMU.
+Aqui você encontra tudo o que é útil para tentar te salvar...
 
-## Ferramenta para fazer teste automatizado de infra
-[link](https://testinfra.readthedocs.io/en/latest/)
 
 ## Procedimentos
 
-- [ansible](ansible/)
-- [aws](AWS/)
-- [azure](azure/)
-- [devops](devops/)
-- [docker](docker/)
-- [elk](elk)
-- [ftp](ftp/)
-- [git](git)
-- [kubernetes](kubernetes/)
-- [links](links/)
-- [linux](linux/)
-- [packer](packer/)
-- [postgres](postgres/)
-- [rancher](rancher/)
-- [slack-notification](slack-notification/)
-- [terraform](terraform/)
-- [vault](vault/)
-
+- [Banco de dados](docs/banco-de-dados/)
+- [Controle de versão](docs/controle-de-versao/)
+- [E-mail](docs/e-mail/)
+- [Ferramentas](docs/ferramentas/)
+- [Gerência de Configuração](docs/gerencia-de-configuracao/)
+- [Monitoramento](docs/monitoramento/)
+- [Nuvem](docs/nuvem/)
+- [Orquestração](docs/orquestracao/)
+- [Provisionamento](docs/provisionamento/)
+- [Redes](docs/redes/)
+- [Segurança](docs/seguranca/)
+- [Sistema Operacional](docs/sistema-operacional/)
 
 ## Contribuição
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
+Pull requestão são bem vindas. Para maiores mudanças, por favor abra uma issue para discussão do que você gostaria de mudar.
 
-## License
+## Licença
 [MIT](https://choosealicense.com/licenses/mit/)
